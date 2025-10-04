@@ -18,7 +18,7 @@ Currently exploring **LLM fine-tuning (LoRA/QLoRA)**, **adaptive trading models*
 
 ## 💼 Experience
 
-- **Summer Intern — NIT Karnataka (2025)**  
+- **Summer Intern — National Institute of Technology, Surathkal (2025)**  
   *RAG-based Travel Assistant (Karavali-mitra)*  
   - Built a tourism chatbot with **Gemma-3 + LoRA** and **FastAPI + Flutter** stack.  
   - Added Redis + Hive caching for offline itinerary access.  
