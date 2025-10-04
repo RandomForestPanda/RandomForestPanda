@@ -52,6 +52,13 @@ Currently exploring **LLM fine-tuning (LoRA/QLoRA)**, **adaptive trading models*
 
 ---
 
+## 📷 Beyond Academics
+
+Outside of coding and research, I’m deeply passionate about **photography**.  
+I love capturing street scenes, cultural stories, and candid human emotions — using the lens as a way to explore perspectives and creativity beyond algorithms.  
+
+---
+
 ## 📬 Connect with Me
 
 - Email: [vamshivishruthj@gmail.com](mailto:vamshivishruthj@gmail.com)  
