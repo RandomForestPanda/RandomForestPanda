@@ -1,6 +1,6 @@
 # Hi, I'm Vamshi Vishruth 👋
 
-🎓 CSE Student @ PES University | 
+🎓 CSE Student @ PES University
 
 I enjoy crafting intelligent systems — from **RAG-based assistants** and **serverless compute platforms** to **deep learning for vision** and **reinforcement learning agents for ecological simulations**.  
 Currently exploring **LLM fine-tuning (LoRA/QLoRA)**, **adaptive trading models**, and **autonomous robotics**.
